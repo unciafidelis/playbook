@@ -8,4 +8,4 @@ Week 3 projects developed:
 |`spiderverse`|2|[spiderverse](https://github.com/unciafidelis/spiderverse)|
 |`twitter`|3, 4, 5|[twitter](https://github.com/unciafidelis/twitter)|
 |`express_basic`|6|[express_basic](https://github.com/unciafidelis/express_basic)|
-|`express_api`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`express_api`|7|[express_api](https://github.com/unciafidelis/express_api)|
